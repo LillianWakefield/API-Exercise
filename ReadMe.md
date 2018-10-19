@@ -2,7 +2,7 @@
 <p>This repo is designed to answer question 3 from the technical exercises given by Achievement First</P>
 <h4>Instructions</h4>
 <h4>The Easy Way</h4>
-<p>Follow this link to see my API call in action: <a href="https://lillianwakefield.github.io/API-Exercise"> https://lillianwakefield.github.io/API-Exercise/</a>/</p>
+<p>Follow this link to see my API call in action: <a href="https://lillianwakefield.github.io/API-Exercise"> https://lillianwakefield.github.io/API-Exercise/</a></p>
 <h4>The Hard Way</h4>
 <p>Download and install Node.js</p>
 <p>Once ready, test your node version by typing 'node -v' into your terminal.<p>
