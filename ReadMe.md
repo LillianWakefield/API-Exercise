@@ -1,5 +1,5 @@
 <h2>Question 3: List User Repositories Github REST API</h2>
-<p>This repo is designed to answer question 3 from the technical exercises given by Achievement First</P>
+<p>This repo is designed to answer question 3 from the technical exercises given by Achievement First.</P>
 
 <h4>Instructions</h4>
 <p>Follow this link to see my API call in action: <a href="https://lillianwakefield.github.io/API-Exercise"> https://lillianwakefield.github.io/API-Exercise/</a></p>
