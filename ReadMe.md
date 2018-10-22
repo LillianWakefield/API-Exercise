@@ -2,7 +2,7 @@
 <p>This repo is designed to answer question 3 from the technical exercises given by Achievement First.</P>
 
 <h4>Instructions</h4>
-<p>Because I wrote my API call in JavasScript, just follow this link to see it in action:<br>
+<p>Because I wrote my API call in JavaScript, just follow this link to see it in action:<br>
  <a href="https://lillianwakefield.github.io/API-Exercise"> https://lillianwakefield.github.io/API-Exercise</a></p>
 
 <h4>Build With</h4>
